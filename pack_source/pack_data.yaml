@@ -1,0 +1,21 @@
+---
+meta:
+  name:
+    en_US: Newfound Courage
+  description:
+    en_US: Skins based off the game Newfound Courage.
+  version: 1.0.0 # if unspecified, set to 1.0.0
+  uuid: f7d4ea22-eb0f-47bd-9b7c-34bf40a6e6b5 # if unspecified, should be generated
+
+components:
+  skins:
+    meta:
+      name: # if unspecified, use pack name
+        en_US: Newfound Courage Skins
+      description: # if unspecified, use pack description
+      version: 1.0.0 # If unspecified, default to 1.0.0
+      uuid: 57e6c625-3211-402c-86da-7e9a46338180 # if unspecified, randomly generate
+    files:
+    - file: alexander.png
+      name:
+        en_US: Alexander
