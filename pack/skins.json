@@ -1,0 +1,12 @@
+{
+	"skins": [
+		{
+			"localization_name": "alexander",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "skin_newfound-courage_alexander.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "skinpack_name",
+	"localization_name": "skinpack_name"
+}

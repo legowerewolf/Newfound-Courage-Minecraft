@@ -1,0 +1,16 @@
+{
+	"header": {
+		"name": "Newfound Courage",
+		"description": "",
+		"version": [1, 0, 1],
+		"uuid": "f7d4ea22-eb0f-47bd-9b7c-34bf40a6e6b5"
+	},
+	"modules": [
+		{
+			"version": [1, 0, 1],
+			"type": "skin_pack",
+			"uuid": "57e6c625-3211-402c-86da-7e9a46338180"
+		}
+	],
+	"format_version": 1
+}
