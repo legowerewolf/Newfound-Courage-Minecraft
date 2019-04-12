@@ -1,0 +1,13 @@
+---
+meta:
+  name:
+    en_US: Newfound Courage
+  description:
+    en_US: Skins based off the game Newfound Courage.
+  version: 1.0.0
+
+components:
+  skins:
+  - file: alexander.png
+    name:
+      en_US: Alexander
