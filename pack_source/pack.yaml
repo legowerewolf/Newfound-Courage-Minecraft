@@ -16,6 +16,6 @@ components:
       version: 1.0.0 # If unspecified, default to 1.0.0
       uuid: 57e6c625-3211-402c-86da-7e9a46338180 # if unspecified, randomly generate
     files:
-    - file: alexander.png
+    - file: skins/alexander.png
       name:
         en_US: Alexander
