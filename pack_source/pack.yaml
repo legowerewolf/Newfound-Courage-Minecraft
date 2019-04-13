@@ -17,5 +17,6 @@ components:
       uuid: 57e6c625-3211-402c-86da-7e9a46338180
     files:
     - file: skins/alexander.png
+      slimArms: true
       name:
         en_US: Alexander
